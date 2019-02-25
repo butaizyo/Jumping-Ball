@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Original Project",
+"dataUrl": "Jumping Ball.data.unityweb",
+"asmCodeUrl": "Jumping Ball.asm.code.unityweb",
+"asmMemoryUrl": "Jumping Ball.asm.memory.unityweb",
+"asmFrameworkUrl": "Jumping Ball.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
